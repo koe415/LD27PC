@@ -1,0 +1,99 @@
+Prelude's story.
+An equivalent to a private jet, the couple and their close friend pick up a faint signal on their way to a getaway vacation.
+
+While not their responsibility, the husband makes it his cause to argue that someone might need their help. Everyone on board, including the AI, is against this but the husband successful persuades everyone with different argument approaches. They make their way to the site and discover a floating ship with what appears to be no power. They eventually decide to send two on board, the wife with the suit with good comm and the friend with the lousy comm, to try to recover any information on what happened there. The two make their way to the unknown ship.
+
+The markings on the ship are unreadable and everything seems to be old and stagnant on board. While making their way to the cockpit, the friend is separated by debris. The wife starts to panic while she hears sounds nearby. The husband does all he can to calm her down but soon after, her comm drops off. The husband cannot make contact with her again and starts to worry about her air supply after a few hours. Eventually there is a knocking on the air lock door. The husband confirms it is the wife out there but she wants to break protocol and get access inside before decontamination is completed. The husband is left with that choice.
+
+The wife is lost on board the ship. Her comms are down and she's running low on her reserve oxygen. While trying to leave the ship, she stumbles upon the friend's body with no suit. It seems like he was forcefully removed from it. She then makes her way to her ship, only to find that the air lock has been destroyed. It seems like the door was prematurely opened with the outer lock still open, causing the entire interior exposed to that to be ripped into space. The wife is in shock and can barely function. She makes her way to the cockpit and sends out a distress signal. Her oxygen is running out. 
+
+Ship : SOLOMON 104
+Husband : Jeff - 
+Wife : Catherine - 
+Friend :  - Wants to stay out of couple arguments. Has known the 
+AI : Murdock - Dry personality. Just the facts. No personality. Baseline AI model.
+
+Murdock - Jeff?
+Murdock - ...
+Murdock - Jeff, are you still awake?
+Jeff - ...Yeah I'm sorry. You were saying?
+Murdock - I'm sorry to wake you sir but I may have found something while scanning local systems. A faint signal is coming from sector 34.923.423.
+Jeff - What type of signal?
+Murdock - That's the thing. I'm having trouble reading the signal. It is not in a code or language I have been loaded to interpret. 
+Jeff - Well I don't think that really concerns us Murdock. It could easily be a loose wire that's interfering with a ship's comms. 
+Murdock - I would normally agree with you Jeff but there's one more thing. The transmission? It's being broadcast on a wavelength reserved for emergencies. You know the protocol for emergency transmissions. What if another ship needs help or is stranded? 
+Jeff - God dammit Murdock.
+
+CHOICES:
+A1. Location of signal?
+Jeff - Okay, um where exactly is this signal coming from?
+Murdock - The signal has been traced to Chariot-90. It is somewhat between two systems out there. As far as I can tell, no local colonies are nearby. Monitoring the comms traffic shows that there is no one out there and the logs show no one has registered their location anywhere near that sector in quite some time.
+A2. Thoughts on signal's origin?
+Jeff - What do you think is out there Murdock?
+Murdock - Perhaps a ship with a faulty comms. Even then, a ship would have to have some purpose to be that far off any of the major thoroughfares. Being this far out, it really is hard to say. It could just as well be a damaged satellite or...
+Jeff - Or what?
+Murdock - Well it could be anything is what I am saying Jeff. The odd thing is that the signal is only being picked up by your older receptor. The replacement is not showing this signal at all.
+A3. Signals contents?
+Jeff - So you have tried to read their transmission?
+Murdock - Yes. As I have said, the transmission has not been successfully interpreted. The signal is very weak and I believe that the source of it may have something to do with that.
+A4. Pinged them yet?
+Jeff - Have you tried to reply or send the standard request for contact to the source's location?
+Murdock - I have.
+Jeff - And?
+Murdock - No response. Again, this all might just be a satellite off course...
+Jeff - Or it might be a desperate S.O.S. attempt, I got it.
+
+B1. Impact on trip.
+Jeff - Can we afford the deviation?
+Murdock - Considering this is only the first portion of our planned voyage, we have plenty human needs supplies and fuel for an extended deviation. We should have more than enough to make any response where appropriate if you do decide to go the source's location.
+B2. Can't we just report this to the proper channels?
+Jeff - Can't we just pass this information along?
+Murdock - We could Jeff but, with the passing of the 'Preparation and Safety Guidelines' bill 23.531680b, if the source of the signal is a craft in need of help, the responsibility of responding would be upon us. Unfortunately this would override you and the crew status over me. Sorry Jeff but you would force me to report you.
+Jeff - <Sigh> I know Murdock. It's fine.
+Murdock - On the plus side, this could all be for naught if it turns out to be nothing.
+B3. Wife is going to be pissed.
+Jeff - Can you break this to her?
+Murdock - I can. How would you like me to approach the matter?
+Jeff - You could just tell her that we are being forced....You know what? Never mind. I'll bug her about it. She's not going to like this. Our reservations are going to have to be switched around.
+
+C1. Best course of action?
+Jeff - What do you suppose we should do Murdock?
+Murdock - With this little information, I would advise to get within the local system to determine with a better certainty what we are dealing with here.
+Jeff - Can you pull up any visuals on the source?
+Murdock - I cannot. We are still too far away for our sensors to pick up anything at this point.
+C3. Set course for it.
+Jeff - Right. Set course for it Murdock. We'll get a better idea of what's out there if we get in closer. I'll wake the others.
+Murdock - Of course, Jeff. Adapting course to the signal. I'll alert you when we get closer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

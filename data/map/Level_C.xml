@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level name="C" minx="0" miny="80" maxx="736" maxy="424" bgColor = "0xff333333" >
+	<layer name="Tiles" xScroll="1.000" yScroll="1.000" >
+		<map csv="map/mapCSV_C_Tiles.csv" tiles="tiles.png" x="0.000" y="80.000" tileWidth="8" tileHeight="8" hasHits="false" collIdx="84" drawIdx="1" />
+	</layer>
+	<layer name="triggers" xScroll="1.000" yScroll="1.000" >
+		<shape type="box" x="32.00" y="200.00" angle="0.00" wid="8.00" ht="40.00" >
+			<properties>
+				<prop name="target" value="B" />
+			</properties>
+		</shape>
+		<shape type="box" x="624.00" y="216.00" angle="0.00" wid="8.00" ht="40.00" >
+			<properties>
+				<prop name="target" value="A" />
+			</properties>
+		</shape>
+	</layer>
+</level>
